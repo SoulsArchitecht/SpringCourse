@@ -1,0 +1,9 @@
+*.iml
+*.log
+/.idea
+/.out
+/.resourses
+/.test
+/.target
+/main//resourses
+/data
